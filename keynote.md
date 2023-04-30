@@ -42,6 +42,7 @@ slide_id: 1
         The Chapel programming language provides constructs for expressing a wide range of parallelism patterns, while also remaining easy-to-use. This talk will show usage examples from machine learning, data analytics, aeronautical engineering, hydrology, and other application areas. Perspectives of how existing workflows were adjusted to leverage Chapel and the resulting performance and scaling will also be presented.
 	 <ul>
      <li> <a href="https://zenodo.org/record/7658948">Slides</a></li>
+     <li> <a href="https://www.youtube.com/watch?v=nS-g6ZCjAKQ">Video</a></li>
      </ul>
     </div>
 </div>
