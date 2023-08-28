@@ -6,8 +6,8 @@ slide_id: 1
 <div class="card">
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote I</div>
 	<div style="margin: 10px">
-		<h5>Title: PGAS: A View from Berkeley</h5>
-		<p>Speaker: Damian Rouson, Lawrence Berkeley National Laboratory</p>
+		<h5>PGAS: A View from Berkeley</h5>
+		<p>Damian Rouson, Lawrence Berkeley National Laboratory</p>
 
 		<p markdown="1">
 			Partitioned Global Address Space (PGAS) programming models, languages, and libraries offer HPC software
@@ -42,7 +42,7 @@ slide_id: 1
 	<div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Keynote II</div>
 		<div style="margin: 10px">
 		<h5>Application Examples of Leveraging Task Parallelism with Chapel</h5>
-		<p>Speaker: Michelle Strout, The University of Arizona and HPE</p>
+		<p>Michelle Strout, The University of Arizona and HPE</p>
         The Chapel programming language provides constructs for expressing a wide range of parallelism patterns, while also remaining easy-to-use. This talk will show usage examples from machine learning, data analytics, aeronautical engineering, hydrology, and other application areas. Perspectives of how existing workflows were adjusted to leverage Chapel and the resulting performance and scaling will also be presented.
 	 <ul>
      <li> <a href="https://zenodo.org/record/7658948">Slides</a></li>
@@ -57,7 +57,7 @@ slide_id: 1
 	<div style="margin: 10px">
 		<h5>Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming
 </h5>
-		<p>Speaker: George Bosilca, University of Tennessee, Knoxville</p>
+		<p>George Bosilca, University of Tennessee, Knoxville</p>
 Challenges introduced by highly hybrid many-cores architectures have a lasting impact on the portability and performance of applications, partially due to traditional programming paradigms. These programming paradigms lack the flexibility and capabilities required to deal with large amounts of potential parallelism and a dynamic hybrid execution environment, putting the performance and scalability of applications at risk. Advances in task-based runtime have shown to provide a plausible solution to this problem, one that not only increase the domain scientists’ productivity but also deliver codes that are more efficient, more scalable, and more adaptable to various hardware architectures, and show an increased portability potential to transition from one generation of hardware to another. This talk will describe a distributed task-based runtime, PaRSEC, and highlight its data management strategies and features to allow the implementation of highly efficient and scalable algorithms at any scale.
 
 	 <ul>
